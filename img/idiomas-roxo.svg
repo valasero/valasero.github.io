@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="idiomas.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false" />
+  <path
+     d="m 12.65,15.67 c 0.14,-0.36 0.05,-0.77 -0.23,-1.05 l -2.09,-2.06 0.03,-0.03 C 12.1,10.59 13.34,8.36 14.07,6 h 1.94 C 16.55,6 17,5.55 17,5.01 V 4.99 C 17,4.45 16.55,4 16.01,4 H 10 V 3 C 10,2.45 9.55,2 9,2 8.45,2 8,2.45 8,3 V 4 H 1.99 C 1.45,4 1,4.45 1,4.99 1,5.54 1.45,5.98 1.99,5.98 H 12.17 C 11.5,7.92 10.44,9.75 9,11.35 8.19,10.46 7.51,9.49 6.94,8.47 6.78,8.18 6.49,8 6.16,8 5.47,8 5.03,8.75 5.37,9.35 6,10.48 6.77,11.56 7.67,12.56 L 3.3,16.87 c -0.4,0.39 -0.4,1.03 0,1.42 0.39,0.39 1.02,0.39 1.42,0 L 9,14 l 2.02,2.02 c 0.51,0.51 1.38,0.32 1.63,-0.35 z M 17.5,10 c -0.6,0 -1.14,0.37 -1.35,0.94 l -3.67,9.8 c -0.24,0.61 0.22,1.26 0.87,1.26 0.39,0 0.74,-0.24 0.88,-0.61 L 15.12,19 h 4.75 l 0.9,2.39 c 0.14,0.36 0.49,0.61 0.88,0.61 0.65,0 1.11,-0.65 0.88,-1.26 l -3.67,-9.8 C 18.64,10.37 18.1,10 17.5,10 Z m -1.62,7 1.62,-4.33 1.62,4.33 z"
+     fill="url(#paint0_linear)"
+     id="path2"
+     style="fill:url(#paint0_linear);filter:url(#filter123)" />
+  <defs
+     id="defs9">
+    <linearGradient
+       id="paint0_linear"
+       x1="11.795"
+       y1="2"
+       x2="11.795"
+       y2="22"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#B6F829"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#67DD0A"
+         id="stop6" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Color Shift"
+       id="filter123"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="169"
+         result="color1"
+         id="feColorMatrix119" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         result="color2"
+         id="feColorMatrix121" />
+    </filter>
+  </defs>
+</svg>
